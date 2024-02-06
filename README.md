@@ -1,2 +1,4 @@
 # DreamMusic
- Projeto desenvolvimento com o principal objetivo a manipulação do DOM, utilizando bastante a linguagem Javascript para tais interatividades
+ Para rodar esse projeto você precisa baixa-lo e abri-lo com a extensão "Live Server";
+
+ Logo será postado nesse readme o passo a passo completo.
